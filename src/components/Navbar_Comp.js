@@ -16,7 +16,7 @@ function Navbar_Comp() {
     <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
       <Container>
         <Navbar.Brand href="#home" style={bookYourShowColor}>
-          Cinova
+          ViralMovie
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
