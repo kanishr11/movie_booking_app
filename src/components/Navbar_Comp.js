@@ -14,11 +14,6 @@ function Navbar_Comp() {
   const viewCitiesColor = { color: 'green' }; 
   return (
     <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
-      <img
-        src="https://api.logo.com/api/v2/images?logo=logo_f9f518ad-3af3-44c6-ac96-3fe48d51fc5a&u=1702534296&width=500&height=400&fit=contain&margins=100&format=webp&quality=60"
-        style={{ width: '250px', height: '170px' }}
-        alt="Logo"
-      />
       <Container>
         <Navbar.Brand href="#home" style={bookYourShowColor}>
           Cinova
